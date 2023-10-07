@@ -6,7 +6,7 @@
 
 <table border="0">
  <tr>
-    ![Alt text | width=100](./github_stats.svg)
+    ![Alt text | width=80](./github_stats.svg)
  </tr>
  <tr>
     [![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
