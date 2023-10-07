@@ -5,7 +5,6 @@
 [![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
 
 ![Alt text](./github_stats.svg)
-<img src="./github_stats">
 
 <!-- ![Joke of the day](https://readme-jokes.vercel.app/api) -->
 
