@@ -1,6 +1,6 @@
 [![Artem Romanovich profile views](https://u8views.com/api/v1/github/profiles/117440530/views/day-week-month-total-count.svg)](https://u8views.com/github/artromone)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Artem.;A+Fullstack+Developer.)](https://git.io/typing-svg)
 
 ![Joke of the day](https://readme-jokes.vercel.app/api)
 
