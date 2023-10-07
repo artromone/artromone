@@ -4,6 +4,15 @@
 ![Alt text](./github_stats.svg)
 [![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
 
+<table border="0">
+ <tr>
+    ![Alt text | width=100](./github_stats.svg)
+ </tr>
+ <tr>
+    [![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
+ </tr>
+</table>
+
 <!-- ![Joke of the day](https://readme-jokes.vercel.app/api) -->
 
 <!--
