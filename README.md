@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Artem;Nice+to+meet+you+☺)](https://git.io/typing-svg)
 
-![Joke of the day](https://readme-jokes.vercel.app/api)
+[![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
+
+<!-- ![Joke of the day](https://readme-jokes.vercel.app/api) -->
 
 <!--
 **artromone/artromone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
