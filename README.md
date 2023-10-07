@@ -4,8 +4,6 @@
 
 ![Joke of the day](https://readme-jokes.vercel.app/api)
 
-[[github-contribution-grid-snake.svg]]
-
 <!--
 **artromone/artromone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
