@@ -1,10 +1,8 @@
 [![Artem Romanovich profile views](https://u8views.com/api/v1/github/profiles/117440530/views/day-week-month-total-count.svg)](https://u8views.com/github/artromone)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Artem;Nice+to+meet+you+☺)](https://git.io/typing-svg)
-
-[![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
-
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Artem;Nice+to+meet+you+☺)](https://git.io/typing-svg)-->
 ![Alt text](./github_stats.svg)
+[![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
 
 <!-- ![Joke of the day](https://readme-jokes.vercel.app/api) -->
 
