@@ -1,4 +1,9 @@
 [![Artem Romanovich profile views](https://u8views.com/api/v1/github/profiles/117440530/views/day-week-month-total-count.svg)](https://u8views.com/github/artromone)
+
+![Joke of the day](https://readme-jokes.vercel.app/api)
+
+
+
 <!--
 **artromone/artromone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
