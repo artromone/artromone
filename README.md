@@ -1,7 +1,4 @@
-![github-header-image](https://github.com/artromone/artromone/assets/117440530/76c14d4f-71c2-4412-ba46-084f52f53752)
 [![Artem Romanovich profile views](https://u8views.com/api/v1/github/profiles/117440530/views/day-week-month-total-count.svg)](https://u8views.com/github/artromone)
-
-[![Artem Romanovich](https://github-readme-stackoverflow.vercel.app/?userID=6558042)]([https://stackoverflow.com/users/19671991/favorit])
 <!--
 **artromone/artromone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
