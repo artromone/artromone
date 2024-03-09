@@ -2,8 +2,6 @@
 
 ![Alt text](./github_stats.svg)
 
-[![Artem's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=artromone)](https://github.com/artromone/artromone)
-
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Artem;Nice+to+meet+you+☺)](https://git.io/typing-svg)-->
 <!-- ![Joke of the day](https://readme-jokes.vercel.app/api) -->
 
